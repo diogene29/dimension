@@ -1705,6 +1705,6 @@ input, select, textarea {
   margin-top: -50px;
 }
 .visuals{
-	width: 20px;
+	width: 50px !important;
 }
 
